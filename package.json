@@ -1,9 +1,9 @@
 {
-  "name": "labs-api-starter",
-  "version": "1.0.0",
+  "name": "nacht-be-collection",
+  "version": "0.1.0",
   "private": false,
   "license": "MIT",
-  "repository": "github:Lambda-School-Labs/labs-api-starter",
+  "repository": "github:MychaelM/nachtMon",
   "scripts": {
     "start": "node server.js",
     "watch:dev": "nodemon",
@@ -51,7 +51,7 @@
     ]
   },
   "dependencies": {
-    "@okta/jwt-verifier": "^2.0.0",
+    "@okta/jwt-verifier": "^2.3.0",
     "axios": "^0.21.1",
     "cookie-parser": "~1.4.4",
     "cors": "^2.8.5",
