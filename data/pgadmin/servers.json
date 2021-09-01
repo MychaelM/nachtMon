@@ -1,11 +1,11 @@
 {
   "Servers": {
     "1": {
-        "Name": "API-dev",
+        "Name": "nacht-API-dev",
         "Group": "Dev",
         "Port": 5432,
         "Username": "docker",
-        "Host": "pg-api-starter",
+        "Host": "nacht-api-dev",
         "SSLMode": "prefer",
         "MaintenanceDB": "postgres"
     }
